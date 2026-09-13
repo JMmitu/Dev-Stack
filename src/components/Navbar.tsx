@@ -43,7 +43,7 @@ onClick={() => setIsMenuOpen(!isMenuOpen)}
   {NAV_LINKS.map((link) => (  <li key={link}>
     <a
          href={`#${link.toLowerCase()}`}
-       className="text-sm font-medium text-ink-muted hover:text-ink"
+       className="text-sm font-medium text-ink-muted hover:text-brand-pink"
   >
    {link}
      </a>
