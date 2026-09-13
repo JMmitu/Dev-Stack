@@ -8,6 +8,7 @@ import TechnologySection from "./components/TechnologySection";
 // import YourStack from "./components/YourStack";
 import type { Technology } from "./types/technology";
 import YourStack from "./components/YourStack";
+import Footer from "./components/Footer";
 
 function App() {
   const [technologies, setTechnologies] = useState<Technology[]>([]);
@@ -96,6 +97,7 @@ function App() {
       </main>
 
       <ToastContainer />
+       <Footer />
     </div>
   );
 }
