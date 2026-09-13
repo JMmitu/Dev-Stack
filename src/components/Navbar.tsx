@@ -65,12 +65,13 @@ onClick={() => setIsMenuOpen(!isMenuOpen)}
   <ul className="flex flex-col gap-1 border-t border-surface-border bg-surface px-4 py-3 md:hidden">
   {NAV_LINKS.map((link) => (
      <li key={link}>
-      <a
-       href={`#${link.toLowerCase()}`}
-   onClick={() => setIsMenuOpen(false)}
-       className="block rounded-lg px-3 py-2 text-sm font-medium text-ink-muted hover:bg-surface-raised hover:text-ink">
+  <a
+    href={`#${link.toLowerCase()}`}
+    onClick={() => setIsMenuOpen(false)}
+    className="block rounded-lg px-3 py-2 text-sm font-medium text-ink-muted hover:bg-surface-raised hover:text-brand-pink"
+  >
     {link}
-      </a>
+  </a>
       </li>
   ))}
  </ul>

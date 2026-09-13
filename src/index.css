@@ -3,8 +3,7 @@
 @tailwind utilities;
 
 :root {
-  /* Single source of truth for the brand gradient.
-     Change this one value to re-theme the entire UI. */
+  
   --gradient-brand: linear-gradient(90deg, #f97316 0%, #ec4899 55%, #8b5cf6 100%);
 }
 
