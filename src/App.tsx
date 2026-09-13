@@ -7,6 +7,7 @@ import Hero from "./components/Hero";
 import TechnologySection from "./components/TechnologySection";
 // import YourStack from "./components/YourStack";
 import type { Technology } from "./types/technology";
+import YourStack from "./components/YourStack";
 
 function App() {
   const [technologies, setTechnologies] = useState<Technology[]>([]);
@@ -86,11 +87,11 @@ function App() {
             onAddToStack={handleAddToStack}
           />
 
-          {/* <YourStack
+           <YourStack
             stack={stack}
             onRemoveFromStack={handleRemoveFromStack}
             onRemoveAll={handleRemoveAll}
-          /> */}
+          /> 
         </div>
       </main>
 
