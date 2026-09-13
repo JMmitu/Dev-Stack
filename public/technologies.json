@@ -1,0 +1,142 @@
+[
+  {
+    "id": "react",
+    "name": "React",
+    "category": "Frontend",
+    "description": "A declarative, component-based JavaScript library for building modern user interfaces.",
+    "icon": "https://icon.icepanel.io/Technology/svg/React.svg",
+    "rating": 4.9,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Popular"
+  },
+  {
+    "id": "typescript",
+    "name": "TypeScript",
+    "category": "Language",
+    "description": "A typed superset of JavaScript that catches bugs early and makes large codebases easier to maintain.",
+    "icon": "https://icon.icepanel.io/Technology/svg/TypeScript.svg",
+    "rating": 4.8,
+    "difficulty": "Intermediate",
+    "badge": "Essential"
+  },
+  {
+    "id": "nodejs",
+    "name": "Node.js",
+    "category": "Backend",
+    "description": "A JavaScript runtime built on Chrome's V8 engine for building fast, scalable server-side applications.",
+    "icon": "https://icon.icepanel.io/Technology/svg/Node.js.svg",
+    "rating": 4.7,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Essential"
+  },
+  {
+    "id": "postgresql",
+    "name": "PostgreSQL",
+    "category": "Database",
+    "description": "A powerful, open-source object-relational database system with proven reliability.",
+    "icon": "https://icon.icepanel.io/Technology/svg/PostgresSQL.svg",
+    "rating": 4.9,
+    "difficulty": "Intermediate",
+    "badge": "Top SQL"
+  },
+  {
+    "id": "tailwindcss",
+    "name": "Tailwind CSS",
+    "category": "Styling",
+    "description": "A utility-first CSS framework for rapidly building custom designs without leaving your markup.",
+    "icon": "https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg",
+    "rating": 4.8,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Fast"
+  },
+  {
+    "id": "docker",
+    "name": "Docker",
+    "category": "DevOps",
+    "description": "A platform for packaging applications into lightweight, portable containers that run anywhere.",
+    "icon": "https://icon.icepanel.io/Technology/svg/Docker.svg",
+    "rating": 4.7,
+    "difficulty": "Intermediate",
+    "badge": "Containers"
+  },
+  {
+    "id": "mongodb",
+    "name": "MongoDB",
+    "category": "Database",
+    "description": "A flexible, document-oriented NoSQL database designed for speed and horizontal scaling.",
+    "icon": "https://icon.icepanel.io/Technology/svg/MongoDB.svg",
+    "rating": 4.6,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Flexible"
+  },
+  {
+    "id": "python",
+    "name": "Python",
+    "category": "Language",
+    "description": "A readable, general-purpose language loved for scripting, data work, and backend services.",
+    "icon": "https://icon.icepanel.io/Technology/svg/Python.svg",
+    "rating": 4.9,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Versatile"
+  },
+  {
+    "id": "vuejs",
+    "name": "Vue.js",
+    "category": "Frontend",
+    "description": "An approachable, progressive framework for building interactive user interfaces incrementally.",
+    "icon": "https://icon.icepanel.io/Technology/svg/Vue.js.svg",
+    "rating": 4.6,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Lightweight"
+  },
+  {
+    "id": "graphql",
+    "name": "GraphQL",
+    "category": "Backend",
+    "description": "A query language for APIs that lets clients ask for exactly the data they need.",
+    "icon": "https://icon.icepanel.io/Technology/svg/GraphQL.svg",
+    "rating": 4.5,
+    "difficulty": "Advanced",
+    "badge": "Efficient"
+  },
+  {
+    "id": "figma",
+    "name": "Figma",
+    "category": "Tools",
+    "description": "A collaborative interface design tool used to plan, prototype, and hand off UI to developers.",
+    "icon": "https://icon.icepanel.io/Technology/svg/Figma.svg",
+    "rating": 4.8,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Design"
+  },
+  {
+    "id": "vite",
+    "name": "Vite",
+    "category": "Tools",
+    "description": "A lightning-fast build tool and dev server that powers modern frontend projects.",
+    "icon": "https://icon.icepanel.io/Technology/svg/Vite.js.svg",
+    "rating": 4.8,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Fast"
+  },
+  {
+    "id": "aws",
+    "name": "AWS",
+    "category": "DevOps",
+    "description": "A broad cloud platform offering compute, storage, and managed services for apps of any scale.",
+    "icon": "https://icon.icepanel.io/Technology/svg/AWS.svg",
+    "rating": 4.6,
+    "difficulty": "Advanced",
+    "badge": "Cloud"
+  },
+  {
+    "id": "sass",
+    "name": "Sass",
+    "category": "Styling",
+    "description": "A CSS preprocessor that adds variables, nesting, and mixins for more maintainable stylesheets.",
+    "icon": "https://icon.icepanel.io/Technology/svg/Sass.svg",
+    "rating": 4.4,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Classic"
+  }
+]
